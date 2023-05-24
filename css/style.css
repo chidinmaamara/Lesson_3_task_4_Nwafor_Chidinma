@@ -85,11 +85,11 @@ main{
 }
 section{
 	flex:7;
-	padding: 1%;
+	padding: 20px;
 }
 aside{
 	flex: 3;
-	padding: 1%;
+	padding: 20px;
 }
 footer{
 	background-color: dimgrey;
